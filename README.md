@@ -6,7 +6,7 @@ I referd to https://github.com/Jumpst3r/printed-hw-segmentation.git
 
 input \
 ・image \
-・label_image  \
+・label_image  
 
 output \
 ・randomely cropped image　256×256 \
